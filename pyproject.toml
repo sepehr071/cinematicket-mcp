@@ -1,6 +1,6 @@
 [project]
 name = "cinematicket-mcp"
-version = "0.1.1"
+version = "0.1.2"
 description = "Unofficial read-only MCP server for Cinematicket (cinematicket.org), Iranian cinema and theatre tickets: cities, films, cinemas, showtimes and prices, events, box office."
 readme = "README.md"
 license = "PolyForm-Noncommercial-1.0.0"
