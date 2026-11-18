@@ -86,10 +86,6 @@ A real call on 17 Nov 2026: `ct_showtimes(film_id=10492, city_id=235)` returned 
 - `ct_upcoming` is empty when the site lists no coming-soon films, and its non-empty shape is untested.
 - No buying, reserving or login.
 
-## How it works
-
-Cinematicket has no public API. The site's own JSON endpoints were mapped in Chrome, and every tool was compared with the real rendered pages in Chrome on 2026-11-16 (values matched, see the map's test report). Requests use a Chrome-like TLS client, a short cache and a low request rate. The server ignores system proxy variables on purpose.
-
 ## فارسی
 
 <div dir="rtl">
